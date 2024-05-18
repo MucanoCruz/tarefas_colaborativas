@@ -23,7 +23,9 @@
                 <h2>Lista de Tarefas <button class="btn btn-primary float-right" data-toggle="modal"
                         data-target="#myModal"> Adicionar Tarefa </button>
 
-                    <button class="btn btn-primary float-right"> Sair </button>
+                    <button class="btn btn-danger float-right">
+                        <a href="/"> Terminar a sessão </a>
+                    </button>
                 </h2>
 
                 {%with messages = get_flashed_messages()%}
