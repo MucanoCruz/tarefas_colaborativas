@@ -29,7 +29,7 @@ pip install flask_mysqldb
 ```
 
 ### Estrutura do projecto
-
+![Alt text](estrutura.PNG)
 
 ### Executando o programa
 
