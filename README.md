@@ -1,54 +1,48 @@
-# Project Title
+# Aplicação de Lista de Tarefas Colaborativa
 
-Simple overview of use/purpose.
+A aplicação web de lista de tarefas  colaborativa, na qual os usuários podem criar, 
+visualizar, atualizar e excluir tarefas, bem  como compartilhá-las com outros usuários. 
+A aplicação permite a colaboração em  tempo real e sincronização entre os dispositivos dos usuários
 
-## Description
 
-An in-depth paragraph about your project and overview of use.
 
-## Getting Started
+### Dependências e ferramentas Utilizadas
 
-### Dependencies
+* Sistema Operativo Windows 10
+* Linguagem Python para backend 
+* HTML, CSS e Javascript para frontend
+* biblioteca flask (para as requisições http)
+* biblioteca flask_mysqldb para as operações CRUD
+* XAMP (para utilizar o Apache e o MySQL)
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+### Instalação e consiguração do ambiente  
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
+* Criação e activação da variavers ambientes 
 ```
-code blocks for commands
+virtualenv env
+.\venv\Scripts\activate.bat
 ```
-
-## Help
-
-Any advise for common problems or issues.
+* Instalação das BIbliotecas
 ```
-command to run if program contains helper info
+pip install flask 
+pip install flask_mysqldb
 ```
 
-## Authors
+### Estrutura do projecto
 
-Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+### Executando o programa
 
-## Version History
+* Como executar o programa
+```
+flask run
+```
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
-## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+## Autor
+
+Mucano da Cruz 
+
+
 
