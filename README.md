@@ -1,17 +1,54 @@
-Problema: Desenvolvimento de uma Aplicação de Lista de Tarefas Colaborativa
-Você foi contratado para desenvolver uma aplicação web de lista de tarefas 
-colaborativa, na qual os usuários podem criar, visualizar, atualizar e excluir tarefas, bem 
-como compartilhá-las com outros usuários. A aplicação deve permitir a colaboração em 
-tempo real e sincronização entre os dispositivos dos usuários.
-Requisitos Funcionais:
- Os usuários devem poder se cadastrar e fazer login na aplicação.
- Os usuários devem poder criar uma nova lista de tarefas e adicionar tarefas a ela.
- Os usuários devem poder compartilhar suas listas de tarefas com outros usuários 
-da aplicação.
- Os usuários devem poder visualizar uma lista de todas as listas de tarefas 
-compartilhadas com eles.
- Os usuários devem poder marcar tarefas como concluídas ou não concluídas.
- Os usuários devem poder editar o título e a descrição de uma tarefa existente.
- Os usuários devem poder excluir uma tarefa existente de uma lista de tarefas.
- As atualizações feitas em uma lista de tarefas devem ser refletidas em tempo real 
-para todos os usuários que compartilham a lista
+# Project Title
+
+Simple overview of use/purpose.
+
+## Description
+
+An in-depth paragraph about your project and overview of use.
+
+## Getting Started
+
+### Dependencies
+
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
+
+### Installing
+
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+
+### Executing program
+
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+## Authors
+
+Contributors names and contact info
+
+ex. Dominique Pizzie  
+ex. [@DomPizzie](https://twitter.com/dompizzie)
+
+## Version History
+
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
